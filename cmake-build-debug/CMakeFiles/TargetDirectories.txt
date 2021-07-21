@@ -1,0 +1,3 @@
+C:/Users/dalbo/CLionProjects/donut/cmake-build-debug/CMakeFiles/donut.dir
+C:/Users/dalbo/CLionProjects/donut/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dalbo/CLionProjects/donut/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\donut.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\donut.dir/objects.a @CMakeFiles\donut.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\donut.dir/objects.a -Wl,--no-whole-archive  -o donut.exe -Wl,--out-implib,libdonut.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\donut.dir\linklibs.rsp
